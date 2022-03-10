@@ -1,3 +1,3 @@
-Olá, aprendendo a utilizar o Git.
+Aprendendo a utilizar o Git.
 
 Olá, mundo.
